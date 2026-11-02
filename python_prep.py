@@ -16,4 +16,3 @@ def exercise_3():
         f[(x, y)] = 8 * x + 3 * y
     return f
     
-python -c "from python_prep import *; print(exercise_1([1,2,3]), exercise_2([1,2,3]), exercise_3())"
